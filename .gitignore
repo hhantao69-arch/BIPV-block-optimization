@@ -1,0 +1,38 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# --- Data / outputs (regenerate or keep out of git) ---
+*.csv
+*.joblib
+*.pkl
+*.pickle
+*.accdb
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.h5
+*.hdf5
+*.npy
+*.npz
+data/
+outputs/
+results/
+weather_data/
+simulation_result/
+training_results/
+optimization_result/
+analysis_plots/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
