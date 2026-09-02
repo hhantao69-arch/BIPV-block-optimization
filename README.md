@@ -1,8 +1,8 @@
 # photovoltaic_prediction
 
-Supplementary code for the manuscript **"Design for low-carbon residential block considering BIPV self-consumption and lifecycle economic performance"** (under review, *Sustainable Cities and Society*).
+Supplementary code for the manuscript **"Design for low-carbon residential block considering BIPV self-consumption and lifecycle economic performance"** (under review).
 
-Author: Hantao He (Tsinghua University) — the core research (problem formulation, modeling, simulation, optimization, writing) was carried out independently.
+Author: Hantao He
 
 ## What this project does
 This project builds a machine-learning **surrogate model** of building energy and PV performance, then runs **multi-objective optimization** (NSGA-II) to co-optimize BIPV deployment and residential-block morphology for **self-consumption (SC)**, **net present value (NPV)** and **energy ratio (ER)** in a hot-summer climate (Shenzhen).
